@@ -18,5 +18,8 @@
   "homepage": "https://github.com/C4RMONA/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.3"
   }
 }
